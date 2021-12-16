@@ -1260,6 +1260,7 @@ body.offcanvas {
       /* padding: 10px; */
       /* font-size: 0; */
       border-radius: 6px;
+      border: 2px blue;
   }
   .dropdown {
       display: inline-block;
