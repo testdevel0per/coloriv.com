@@ -1256,7 +1256,7 @@ body.offcanvas {
    
     .dropbtn {
       background:none;
-      color: silver;
+      color: rgba(255, 255, 255, 0.5);
         list-style: none;
 font-size: 12px;
 font-weight: 500;
