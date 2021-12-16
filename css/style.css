@@ -1286,5 +1286,6 @@ body.offcanvas {
       display: block;
   }
   .dropdown:hover .dropbtn {
-      background-color: grey;
+      background-color: rgb(84, 189, 189);
+    color:black;
   }
